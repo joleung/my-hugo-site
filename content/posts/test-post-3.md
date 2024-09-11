@@ -1,7 +1,7 @@
 +++
 title = 'Test Post 3'
 date = 2024-05-15T17:21:49+01:00
-draft = true
+draft = false
 +++
 
 ## Test Post 3
